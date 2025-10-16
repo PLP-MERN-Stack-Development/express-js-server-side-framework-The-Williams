@@ -1,20 +1,3 @@
-Absolutely ✅ — here’s a **detailed, professional, and ready-to-paste `README.md`** file for your **Express.js RESTful API assignment**.
-
-It includes:
-
-* Project overview
-* Features
-* Installation and setup steps
-* API documentation (with example requests/responses)
-* Middleware explanation
-* Error handling details
-* Submission notes (for your PLP assignment)
-
----
-
-## 📝 `README.md`
-
-```md
 # 🚀 Express.js RESTful API – Week 2 Assignment
 
 This project is a **RESTful API** built using **Express.js** for managing products.  
